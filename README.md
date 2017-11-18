@@ -25,3 +25,8 @@ Alemany, S., Ballester, A., Parrilla, E., Uriel, J., González, J., Nácher, B.,
 <a href="https://anthropometry.ibv.org/down.php?file=exploitation_of_3d_body_databases_for_the_apparel_industry.pdf&opt=publications">[pdf]</a>
 
 # Soon we will update the code for converting 3d files 
+
+
+
+
+                                     ***** All credits to Instituto de Biomecánica *****
