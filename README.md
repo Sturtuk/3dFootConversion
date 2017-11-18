@@ -3,6 +3,8 @@ this tool will give output of 3d vtk file, using 3 types of foot images
 
 Actually this project successfully done by IBV (Instituto de Biomecánica) and they are providing API
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OVnj6n1-FSI" frameborder="0" allowfullscreen></iframe>
+
 # Below i mentioned journal publication
 
 #PUBLICATIONS
